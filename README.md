@@ -1,8 +1,8 @@
 # Per Kristian Lauvstad
 
-CS student at Gannon University — Norwegian-American, building things with code.
+Computer Science & Software Engineering student at Gannon University — Norwegian studying in America, building things with code.
 
-Currently: sophomore year · Dean's List
+Currently: Sophomore year · Dean's List
 
 ---
 
@@ -10,8 +10,8 @@ Currently: sophomore year · Dean's List
 
 - B.S. Computer Science, Gannon University — expected May 2028
 - President, ACM chapter at Gannon
-- Division II Soccer — started all 21 games, Elite Eight 2024
-- Norwegian, grew up between Oslo and Erie, PA
+- Division II Soccer — started all 21 games, Elite Eight 2024, scoring in important matches
+- Norwegian, born and raised in Asker, Norway
 
 ---
 
