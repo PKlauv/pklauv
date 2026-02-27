@@ -1,8 +1,8 @@
 # Per Kristian Lauvstad
 
-Computer Science & Software Engineering student at Gannon University — Norwegian studying in America, building things with code.
+Computer Science & Software Engineering student at Gannon University 
 
-Currently: Sophomore year · Dean's List
+Currently: Sophomore year · Student-Athlete · Dean's List · ACM President at Gannon
 
 ---
 
@@ -10,8 +10,8 @@ Currently: Sophomore year · Dean's List
 
 - B.S. Computer Science, Gannon University — expected May 2028
 - President, ACM chapter at Gannon
-- Division II Soccer — started all 21 games, Elite Eight 2024, scoring in important matches
-- Norwegian, born and raised in Asker, Norway
+- Student-Athlete -> Division II Soccer — NCAA Elite Eight 2025, PSAC Champions 2025, Scoring in importang games
+- Born and raised near Oslo, Norway
 
 ---
 
@@ -32,6 +32,8 @@ Currently: Sophomore year · Dean's List
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
@@ -48,16 +50,20 @@ Interactive browser-based visualizations of chaos theory, topology, and fractals
 
 Single-page app, no build tools or frameworks. A few things worth noting: Web Workers keep the Mandelbrot renderer off the main thread so the UI stays at 60fps; Plotly.js (~3.5 MB) is lazy-loaded on demand so canvas-only tabs never download it; hash routing makes back/forward work like a normal site. Full Playwright test suite covering navigation, interactions, accessibility, and visual regression.
 
-### ErieVirtualZoo
+### [KeyCrack](https://keycrack-b419.onrender.com)
 
-Android app built in Java with Android Studio. MVVM architecture, Fragments and ViewModels, local database, search and favorites.
+Educational password awareness tool that shows how predictable personal-info-based passwords really are. A custom probabilistic context-free grammar (PCFG) engine expands 30 weighted templates into ranked candidates -- each scored by real-world likelihood. Async FastAPI backend with a dual-database layer (Supabase PostgreSQL in production, SQLite locally), 74 pytest unit tests, Dockerized deployment, and GitHub Actions CI/CD. Nothing is stored.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 ---
 
+
 ## Contact
 
-- Email: per.kristian@lauvstad.com
-- Site: [pklauv.github.io/Math-Phenomena](https://pklauv.github.io/Math-Phenomena/)
+- Email: per.kristian [at] lauvstad [dot] com & lauvstad001 [at] gannon [dot] com
+- Sites: [Math-Phenomena](https://pklauv.github.io/Math-Phenomena/) & [KeyCrack](https://keycrack-b419.onrender.com/)
+
