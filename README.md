@@ -10,7 +10,7 @@ Currently: Sophomore year · Student-Athlete · Dean's List · ACM President at 
 
 - B.S. Computer Science, Gannon University — expected May 2028
 - President, ACM chapter at Gannon
-- Student-Athlete -> Division II Soccer — NCAA Elite Eight 2025, PSAC Champions 2025, Scoring in importang games
+- Student-Athlete -> Division II Soccer — NCAA Elite Eight 2025, PSAC Champions 2025, Scoring and Contributing in important games.
 - Born and raised near Oslo, Norway
 
 ---
