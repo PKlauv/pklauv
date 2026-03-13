@@ -59,11 +59,23 @@ Educational password awareness tool that shows how predictable personal-info-bas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
+### [GestureMute](https://github.com/PKlauv/GestureMute)
+
+Desktop hand-gesture volume and mute controller built in Python. Uses real-time camera input and a gesture state machine to toggle mute and volume actions with low latency, plus lightweight UI feedback (tray, toast, and onboarding flow).
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+
+Architecture includes modular audio, camera, gesture, and UI layers with event-driven coordination. Includes tests for adaptive behavior, configuration, state transitions, and toast/UX behavior.
+
 ---
 
 
 ## Contact
 
 - Email: per.kristian [at] lauvstad [dot] com & lauvstad001 [at] gannon [dot] com
-- Sites: [Math-Phenomena](https://pklauv.github.io/Math-Phenomena/) & [KeyCrack](https://keycrack-b419.onrender.com/)
+
+- Sites: [Math-Phenomena](https://pklauv.github.io/Math-Phenomena/) & [KeyCrack](https://keycrack-b419.onrender.com/) &  [GestureMute](https://github.com/PKlauv/GestureMute)
 
